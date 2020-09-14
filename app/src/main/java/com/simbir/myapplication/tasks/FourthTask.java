@@ -1,4 +1,4 @@
-package com.simbir.myapplication;
+package com.simbir.myapplication.tasks;
 
    /*
    Write a function that accepts an array of 10 integers (between 0 and 9),
@@ -7,7 +7,7 @@ package com.simbir.myapplication;
 
 import java.util.Arrays;
 
-public class FourthClass {
+public class FourthTask {
 
     /*
     Write a function that accepts an array of 10 integers (between 0 and 9),

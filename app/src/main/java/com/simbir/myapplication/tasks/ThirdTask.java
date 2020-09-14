@@ -1,4 +1,4 @@
-package com.simbir.myapplication;
+package com.simbir.myapplication.tasks;
 
 public class ThirdTask {
 

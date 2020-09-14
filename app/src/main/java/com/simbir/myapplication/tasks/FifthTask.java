@@ -1,4 +1,4 @@
-package com.simbir.myapplication;
+package com.simbir.myapplication.tasks;
 
 public class FifthTask {
 
@@ -20,7 +20,6 @@ public class FifthTask {
                     return false;
                 }
             }
-
             return true;
         }
         return false;
